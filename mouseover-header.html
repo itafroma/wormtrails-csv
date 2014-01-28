@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><!-- TMPL_VAR title --></title>
+        <script>
+            function updateBanner(content, color) {
+                var div = document.getElementById('banner');
+                div.style.backgroundColor = color;
+                div.innerHTML = content;
+            }
+        </script>
+        <style>
+            #banner {
+                position: fixed;
+                padding: 0.25em;
+                left: 16px;
+                top: 16px;
+                background: #F00;
+                color: white;
+            }
+            body {
+                font-family: sans-serif
+            }
+        </style>
+    </head>
+    <body>
+        <div id='banner'>Mouse over for details</div>
