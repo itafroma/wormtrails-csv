@@ -4,7 +4,7 @@
 
 ## Demonstration
 
-Examples of *Wormtrails CSV*’s output can be found in my blog post, “[Charting US city and state growth over time][4]“. Other examples of “wormtrails”-style streamgraphs can be found on Zach Beane‘s [movie box office charts microsite][2].
+Examples of *Wormtrails CSV*’s output can be found in my blog post, “[Visualizing US city and state growth with Wormtrails][4]“. Other examples of “wormtrails”-style streamgraphs can be found on Zach Beane‘s [movie box office charts microsite][2].
 
 ## Installation
 
