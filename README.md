@@ -66,7 +66,7 @@ All other files copyright © 2014 Mark Trapp where applicable. They are licensed
 [4]: http://marktrapp.com/2014/02/01/american-population-growth/ "Charting US city and state growth over time"
 [5]: http://quicklisp.org/ "Quicklisp website"
 [6]: http://common-lisp.net/project/asdf/ "ASDF website"
-[7]: http://marktrapp.com/blog/2014/01/20/lisp-with-os-x-sublime-text/ "Setting up a Common Lisp environment on OS X with Sublime Text 3"
+[7]: https://marktrapp.com/blog/2014/01/20/lisp-with-os-x-sublime-text/ "Setting up a Common Lisp environment on OS X with Sublime Text 3"
 [8]: http://www.sbcl.org "SBCL website"
 [9]: https://github.com/xach/geometry "Geometry repository on Github"
 [10]: http://fury.com "Kevin Fox’s website"
